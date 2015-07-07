@@ -1,4 +1,4 @@
-![alt tag](https://raw.github.com/BatallionDonbass/armin/master/example.png)
+![alt tag](https://raw.githubusercontent.com/BatallionDonbass/armin/master/example.png?token=AAgAtIjgYWkn6VOdlNVrPBHCMRjsfrXVks5VpL19wA%3D%3D)
 
 Yii 2 Advanced Project Template
 ===============================
